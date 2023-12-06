@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "David",
+      "image": "https://img.creator-prod.zmags.com/assets/images/650ca9c86df9f10f76126918.png?im=Resize,width=768",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
